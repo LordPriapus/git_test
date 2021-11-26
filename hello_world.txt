@@ -1,0 +1,4 @@
+Hi! My name is Lord Priapus.
+I am taking the Foundations course on The Odin Project.
+I am currently following the Git Basics tutorial.
+Selah.
